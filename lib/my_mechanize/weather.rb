@@ -26,8 +26,8 @@ module MyMechanize
     AREA_URL = {
       tokyo: 'http://weather.yahoo.co.jp/weather/jp/13/4410.html',
       yokohama: 'http://weather.yahoo.co.jp/weather/jp/14/4610.html',
-      naha: 'http://weather.yahoo.co.jp/weather/jp/47/9110.html'
-      fukuoka: 'http://weather.yahoo.co.jp/weather/40/8210.html'      
+      naha: 'http://weather.yahoo.co.jp/weather/jp/47/9110.html',
+      fukuoka: 'http://weather.yahoo.co.jp/weather/40/8210.html'
     }.freeze
 
     # Find weather information by XPath
