@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-weather"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = ["Gou Furuya", "darkcat666"]
   spec.email         = ["innocent.zero@gmail.com", "holycat666@gmail.com"]
   spec.description   = "Respond weather infromation"
