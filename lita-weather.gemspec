@@ -1,8 +1,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-weather"
-  spec.version       = "0.1.0"
-  spec.authors       = ["Gou Furuya"]
-  spec.email         = ["innocent.zero@gmail.com"]
+  spec.version       = "0.1.1"
+  spec.authors       = ["Gou Furuya", "darkcat666"]
+  spec.email         = ["innocent.zero@gmail.com", "holycat666@gmail.com"]
   spec.description   = "Respond weather infromation"
   spec.summary       = "Respond weather infromation"
   spec.homepage      = "https://github.com/gouf/lita-weather"
